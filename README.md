@@ -18,7 +18,7 @@ A Python code that will help check your password and will also tell you how much
 
 ## 🧑‍💻 Installation & Setup
 
-### 1. Clone this repository
+### 1. Clone this repository, installed requirements, and run the file
 
 ```bash
 git clone https://github.com/Hasnain-shinwari/Password_Security_Checker.git
@@ -26,4 +26,3 @@ cd password-checker
 sudo apt update
 pip install colorama
 python3 file.py
-
